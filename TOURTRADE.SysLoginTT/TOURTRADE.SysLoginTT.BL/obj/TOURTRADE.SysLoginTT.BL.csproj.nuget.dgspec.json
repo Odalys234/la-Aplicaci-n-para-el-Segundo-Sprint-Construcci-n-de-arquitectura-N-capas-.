@@ -1,0 +1,298 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\MINEDUCYT\\Documents\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT.BL\\TOURTRADE.SysLoginTT.BL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\MINEDUCYT\\Documents\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT.BL\\TOURTRADE.SysLoginTT.BL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MINEDUCYT\\Documents\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT.BL\\TOURTRADE.SysLoginTT.BL.csproj",
+        "projectName": "TOURTRADE.SysLoginTT.BL",
+        "projectPath": "C:\\Users\\MINEDUCYT\\Documents\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT.BL\\TOURTRADE.SysLoginTT.BL.csproj",
+        "packagesPath": "C:\\Users\\MINEDUCYT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MINEDUCYT\\Documents\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT.BL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MINEDUCYT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\MINEDUCYT\\Documents\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT.DAL\\TOURTRADE.SysLoginTT.DAL.csproj": {
+                "projectPath": "C:\\Users\\MINEDUCYT\\Documents\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT.DAL\\TOURTRADE.SysLoginTT.DAL.csproj"
+              },
+              "C:\\Users\\MINEDUCYT\\Documents\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT.EN\\TOURTRADE.SysLoginTT.EN.csproj": {
+                "projectPath": "C:\\Users\\MINEDUCYT\\Documents\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT.EN\\TOURTRADE.SysLoginTT.EN.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "System.Net.Primitives": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.28, 6.0.28]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.28, 6.0.28]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.28, 6.0.28]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MINEDUCYT\\Documents\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT.DAL\\TOURTRADE.SysLoginTT.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MINEDUCYT\\Documents\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT.DAL\\TOURTRADE.SysLoginTT.DAL.csproj",
+        "projectName": "TOURTRADE.SysLoginTT.DAL",
+        "projectPath": "C:\\Users\\MINEDUCYT\\Documents\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT.DAL\\TOURTRADE.SysLoginTT.DAL.csproj",
+        "packagesPath": "C:\\Users\\MINEDUCYT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MINEDUCYT\\Documents\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MINEDUCYT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\MINEDUCYT\\Documents\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT.EN\\TOURTRADE.SysLoginTT.EN.csproj": {
+                "projectPath": "C:\\Users\\MINEDUCYT\\Documents\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT.EN\\TOURTRADE.SysLoginTT.EN.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "System.Net.Primitives": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.28, 6.0.28]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.28, 6.0.28]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.28, 6.0.28]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MINEDUCYT\\Documents\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT.EN\\TOURTRADE.SysLoginTT.EN.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MINEDUCYT\\Documents\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT.EN\\TOURTRADE.SysLoginTT.EN.csproj",
+        "projectName": "TOURTRADE.SysLoginTT.EN",
+        "projectPath": "C:\\Users\\MINEDUCYT\\Documents\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT.EN\\TOURTRADE.SysLoginTT.EN.csproj",
+        "packagesPath": "C:\\Users\\MINEDUCYT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MINEDUCYT\\Documents\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT.EN\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MINEDUCYT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "System.Net.Primitives": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.28, 6.0.28]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.28, 6.0.28]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.28, 6.0.28]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
