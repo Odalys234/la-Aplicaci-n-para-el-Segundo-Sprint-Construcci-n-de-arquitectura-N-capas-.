@@ -2,8 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\TOURTRADE.SysLoginTT",
-    "\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT.AppWeb"
+    "\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT.AppWeb",
+    "\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT.AppWeb\\Controllers",
+    "\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT.AppWeb\\Views",
+    "\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT.AppWeb\\Views\\Shared",
+    "\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT.BL",
+    "\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT.DAL"
   ],
-  "SelectedNode": "\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT.AppWeb\\Program.cs",
+  "SelectedNode": "\\TOURTRADE.SysLoginTT\\TOURTRADE.SysLoginTT.AppWeb\\Controllers\\RoleController.cs",
   "PreviewInSolutionExplorer": false
 }

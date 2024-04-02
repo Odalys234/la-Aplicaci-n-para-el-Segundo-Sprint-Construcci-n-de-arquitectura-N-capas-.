@@ -18,12 +18,44 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\MINEDUCYT\Documents\TOURTRADE.SysLoginTT\TOURTRADE.SysLoginTT\TOURTRADE.SysLoginTT.AppWeb
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/MINEDUCYT/Documents/TOURTRADE.SysLoginTT/TOURTRADE.SysLoginTT/TOURTRADE.SysLoginTT.AppWeb/Views/Categoria/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Documents/TOURTRADE.SysLoginTT/TOURTRADE.SysLoginTT/TOURTRADE.SysLoginTT.AppWeb/Views/Categoria/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Documents/TOURTRADE.SysLoginTT/TOURTRADE.SysLoginTT/TOURTRADE.SysLoginTT.AppWeb/Views/Categoria/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Documents/TOURTRADE.SysLoginTT/TOURTRADE.SysLoginTT/TOURTRADE.SysLoginTT.AppWeb/Views/Categoria/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/MINEDUCYT/Documents/TOURTRADE.SysLoginTT/TOURTRADE.SysLoginTT/TOURTRADE.SysLoginTT.AppWeb/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/MINEDUCYT/Documents/TOURTRADE.SysLoginTT/TOURTRADE.SysLoginTT/TOURTRADE.SysLoginTT.AppWeb/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Documents/TOURTRADE.SysLoginTT/TOURTRADE.SysLoginTT/TOURTRADE.SysLoginTT.AppWeb/Views/Role/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Documents/TOURTRADE.SysLoginTT/TOURTRADE.SysLoginTT/TOURTRADE.SysLoginTT.AppWeb/Views/Role/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Documents/TOURTRADE.SysLoginTT/TOURTRADE.SysLoginTT/TOURTRADE.SysLoginTT.AppWeb/Views/Role/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MINEDUCYT/Documents/TOURTRADE.SysLoginTT/TOURTRADE.SysLoginTT/TOURTRADE.SysLoginTT.AppWeb/Views/Role/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/MINEDUCYT/Documents/TOURTRADE.SysLoginTT/TOURTRADE.SysLoginTT/TOURTRADE.SysLoginTT.AppWeb/Views/Shared/Error.cshtml]
@@ -36,10 +68,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/MINEDUCYT/Documents/TOURTRADE.SysLoginTT/TOURTRADE.SysLoginTT/TOURTRADE.SysLoginTT.AppWeb/Views/User/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxMb2dpbi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/MINEDUCYT/Documents/TOURTRADE.SysLoginTT/TOURTRADE.SysLoginTT/TOURTRADE.SysLoginTT.AppWeb/Views/User/Register.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/MINEDUCYT/Documents/TOURTRADE.SysLoginTT/TOURTRADE.SysLoginTT/TOURTRADE.SysLoginTT.AppWeb/Views/_ViewImports.cshtml]

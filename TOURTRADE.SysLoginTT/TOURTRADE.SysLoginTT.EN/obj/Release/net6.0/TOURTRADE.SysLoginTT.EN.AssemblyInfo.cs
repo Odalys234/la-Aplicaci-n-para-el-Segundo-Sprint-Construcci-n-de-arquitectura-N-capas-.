@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TOURTRADE.SysLoginTT.EN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+632def9e8299ddc19f6a4c7c4477661418deefcd")]
 [assembly: System.Reflection.AssemblyProductAttribute("TOURTRADE.SysLoginTT.EN")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TOURTRADE.SysLoginTT.EN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

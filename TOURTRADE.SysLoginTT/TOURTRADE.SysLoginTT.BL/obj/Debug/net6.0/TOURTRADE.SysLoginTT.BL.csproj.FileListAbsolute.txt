@@ -15,3 +15,4 @@ C:\Users\MINEDUCYT\Documents\TOURTRADE.SysLoginTT\TOURTRADE.SysLoginTT\TOURTRADE
 C:\Users\MINEDUCYT\Documents\TOURTRADE.SysLoginTT\TOURTRADE.SysLoginTT\TOURTRADE.SysLoginTT.BL\obj\Debug\net6.0\refint\TOURTRADE.SysLoginTT.BL.dll
 C:\Users\MINEDUCYT\Documents\TOURTRADE.SysLoginTT\TOURTRADE.SysLoginTT\TOURTRADE.SysLoginTT.BL\obj\Debug\net6.0\TOURTRADE.SysLoginTT.BL.pdb
 C:\Users\MINEDUCYT\Documents\TOURTRADE.SysLoginTT\TOURTRADE.SysLoginTT\TOURTRADE.SysLoginTT.BL\obj\Debug\net6.0\ref\TOURTRADE.SysLoginTT.BL.dll
+C:\Users\MINEDUCYT\Documents\TOURTRADE.SysLoginTT\TOURTRADE.SysLoginTT\TOURTRADE.SysLoginTT.BL\obj\Debug\net6.0\TOURTRADE.SysLoginTT.BL.sourcelink.json

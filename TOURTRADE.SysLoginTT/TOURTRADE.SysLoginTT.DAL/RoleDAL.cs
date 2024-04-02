@@ -23,5 +23,53 @@ namespace TOURTRADE.SysLoginTT.DAL
             return role;
 
         }
+        public static async Task<int> Create(Role pRole)
+        {
+            int result = 0;
+            using (var dbContext = new ComunDB())
+            {
+                dbContext.Add(pRole);
+                result = await dbContext.SaveChangesAsync();
+            }
+            return result;
+        }
+        public static async Task<int> Update(Role pRole)
+        {
+            int result = 0;
+            using (var dbContext = new ComunDB())
+            {
+
+                var role = await dbContext.Roles.FirstOrDefaultAsync(r => r.Id == pRole.Id);
+                role.Name = pRole.Name;
+                dbContext.Update(role);
+                result = await dbContext.SaveChangesAsync();
+            }
+            return result;
+
+        }
+        public static async Task<int> Delete(Role pRole)
+        {
+            int result = 0;
+            using (var dbContext = new ComunDB())
+            {
+
+                var role = await dbContext.Roles.FirstOrDefaultAsync(r => r.Id == pRole.Id);
+                dbContext.Remove(role);
+                result = await dbContext.SaveChangesAsync();
+            }
+            return result;
+        }
+        public static async Task<List<Role>> GetAll()
+        {
+            var roles = new List<Role>();
+            int result = 0;
+            using (var dbContext = new ComunDB())
+            {
+
+                roles = await dbContext.Roles.ToListAsync();
+            }
+            return roles;
+        }
+
     }
 }
